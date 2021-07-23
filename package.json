@@ -1,0 +1,20 @@
+{
+  "name": "tg-utils",
+  "version": "1.0.0",
+  "description": "Pacotes uteis Thaynara",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThaynaraGoncal/tg-utils.git"
+  },
+  "keywords": ["zscan"],
+  "author": "Thaynara Gonçalves <thaynarafaria21@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThaynaraGoncal/tg-utils/issues"
+  },
+  "homepage": "https://github.com/ThaynaraGoncal/tg-utils#readme"
+}
