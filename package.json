@@ -12,7 +12,7 @@
   },
   "keywords": ["zscan"],
   "author": "Thaynara Gonçalves <thaynarafaria21@gmail.com>",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/ThaynaraGoncal/tg-utils/issues"
   },
